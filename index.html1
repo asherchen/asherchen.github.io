@@ -22,6 +22,7 @@
 						<li><a href="#intro">你好哇</a></li>
 						<li><a href="#one">我做啥</a></li>
 						<li><a href="#two">我是谁</a></li>
+						<li><a href="#work">我的作品</a></li>
 						<li><a href="#contact">留个信？</a></li>
 					</ul>
 				</nav>
@@ -61,6 +62,39 @@
 					<p>学生、爱国主义者、热爱生活的普通人</p>
 				</div>
 				<a href="#work" class="button style2 down anchored">Next</a>
+			</section>
+
+		<!-- Work -->
+			<section id="work" class="main style3 primary">
+				<div class="content">
+					<header>
+						<h2>我的作品</h2>
+						<p>展示一些平时倒腾的东西以及摄影作品（不一定是我拍的），见笑。</p>
+					</header>
+
+					<!-- Gallery  -->
+						<div class="gallery">
+							<article class="from-left">
+								<a href="images/fulls/01.jpg" class="image fit"><img src="images/thumbs/01.jpg" title="你还点开看？" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/02.jpg" class="image fit"><img src="images/thumbs/02.jpg" title="厉害吧？" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/fulls/03.jpg" class="image fit"><img src="images/thumbs/03.jpg" title="点开看是不是你喜欢？" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/04.jpg" class="image fit"><img src="images/thumbs/04.jpg" title="见笑啦！" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" title="欢迎到访" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" title="最后一张咯" alt="" /></a>
+							</article>
+						</div>
+
+				</div>
 			</section>
 
 		<!-- Contact -->
